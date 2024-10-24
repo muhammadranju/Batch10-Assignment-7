@@ -29,6 +29,6 @@ This is a simple React project that allows you to select a player from a list of
 
 # Screenshots
 
-![image](./public/batch10-assignment-7-screenshort.jpeg)
+![image](./public/assets/batch10-assignment-7-screenshort.jpeg)
 
-![image](./public/batch10-assignment-7-screenshort-2.jpeg)
+![image](./public/assets/batch10-assignment-7-screenshort-2.jpeg)
