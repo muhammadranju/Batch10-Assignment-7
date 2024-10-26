@@ -1,4 +1,6 @@
-# BPL Dream 11 - React Project - Assignment 7
+# Title:
+
+- BPL Dream 11 - React Project - Assignment 7
 
 ## Description
 
@@ -23,12 +25,12 @@ This is a simple React project that allows you to select a player from a list of
 
 # Live Demo
 
-### - [Live Demo Link - 1](https://batch-10-assignment-7.netlify.app)
+### - [Live Demo Link - 1](https://batch10-assignment-7.netlify.app)
 
 ### - [Live Demo Link - 2](https://batch10-assignment-7.surge.sh)
 
 # Screenshots
 
-![image](./public/assets/batch10-assignment-7-screenshort.jpeg)
+![image](./public/batch10-assignment-7-screenshort.jpeg)
 
-![image](./public/assets/batch10-assignment-7-screenshort-2.jpeg)
+![image](./public/batch10-assignment-7-screenshort-2.jpeg)

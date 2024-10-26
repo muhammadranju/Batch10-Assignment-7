@@ -14,7 +14,7 @@ function App() {
       position: "top-center",
     });
   };
-  const [selectedPlayers, isSelectedPlayers] = useState([]);
+  const [selectedPlayers, setSelectedPlayers] = useState([]);
 
   const handelPlayerPrice = (price, card) => {
     const findPlayer = selectedPlayers.find(
@@ -32,7 +32,7 @@ function App() {
     }
 
     if (!findPlayer) {
-      isSelectedPlayers((prev) => [...prev, card]);
+      setSelectedPlayers((prev) => [...prev, card]);
       setCoin((prov) => prov - price);
       toast.success(`Congrats!! ${card?.name} is now your squad`, {
         autoClose: 3000,
@@ -52,13 +52,11 @@ function App() {
       const findPlayer = selectedPlayers.filter(
         (isPlayer) => isPlayer.playerId !== player.playerId
       );
-      isSelectedPlayers(findPlayer);
+      setSelectedPlayers(findPlayer);
       return toast.warning("Player removed successfully!", { autoClose: 2000 });
     }
-    console.log(isFoundPlayer);
   };
 
-  // console.log(selectedPlayers);
   return (
     <section>
       <div className="w-11/12 lg:w-11/12 md:w-11/12 xl:container mx-auto">

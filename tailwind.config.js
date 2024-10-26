@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        bgShadow: "url('./assets/bg-shadow.png')",
+        "bg-shadow": "url('/assets/bg-shadow.png')",
         Color: "#E7FE29",
       },
     },

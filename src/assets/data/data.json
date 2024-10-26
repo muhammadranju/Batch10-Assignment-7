@@ -22,7 +22,7 @@
   {
     "playerId": 3,
     "name": "Andre Russell",
-    "country": "West Indies",
+    "country": "Australia",
     "image": "https://res.cloudinary.com/nodelove/image/upload/v1729789159/assignment/s6ct5tg8fao3sxeajpfk.webp",
     "role": "All-rounder",
     "battingStyle": "Right-handed",
@@ -42,7 +42,7 @@
   {
     "playerId": 5,
     "name": "Chris Gayle",
-    "country": "West Indies",
+    "country": "Australia",
     "image": "https://res.cloudinary.com/nodelove/image/upload/v1729789994/assignment/fyxmj1ah3dbago4c9qat.webp ",
     "role": "Batsman",
     "battingStyle": "Left-handed",
@@ -72,7 +72,7 @@
   {
     "playerId": 8,
     "name": "Dwayne Bravo",
-    "country": "West Indies",
+    "country": "Trinidad and Tobago",
     "image": "https://res.cloudinary.com/nodelove/image/upload/v1729789995/assignment/fxq3lq4ahbcmulsd6sxg.jpg",
     "role": "All-rounder",
     "battingStyle": "Right-handed",
@@ -142,7 +142,7 @@
   {
     "playerId": 15,
     "name": "Sunil Narine",
-    "country": "West Indies",
+    "country": "Australia",
     "image": "https://res.cloudinary.com/nodelove/image/upload/v1729789995/assignment/derzbk1wy0qj6m9mctiz.jpg",
     "role": "Bowler",
     "battingStyle": "Left-handed",

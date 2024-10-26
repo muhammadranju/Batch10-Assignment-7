@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="lg:mt-96 mt-72  bg-[#06091A] text-gray-500 py-10 relative z-0 ">
-      <div className="border-2 container mx-auto  p-5 z-0   rounded-3xl bg-white bg-opacity-35 absolute -top-44 right-0 left-0">
-        <div className=" flex justify-center flex-col items-center rounded-3xl h-80 space-y-3 lg:px-0 px-5  bg-[url('./assets/bg-shadow.png')] bg-slate-100 bg-cover bg-center ">
+    <footer className="lg:mt-96 mt-72  bg-[#06091A] text-gray-500 py-10 relative  ">
+      <div className="border-2 container mx-auto  p-5   rounded-3xl bg-white bg-opacity-35 absolute -top-44 right-0 left-0 ">
+        <div className=" flex justify-center flex-col items-center rounded-3xl h-80 space-y-3 lg:px-0 px-5  bg-[url('/assets/bg-shadow.png')] bg-slate-100 bg-cover bg-center ">
           <h1 className="lg:text-3xl text-xl lg:text-start text-center font-bold text-black">
             Subscribe to our Newsletter
           </h1>
